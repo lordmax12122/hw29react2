@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw29react2/static/css/main.7acaea2f.css",
+    "main.js": "/hw29react2/static/js/main.c39ee3c1.js",
+    "index.html": "/hw29react2/index.html",
+    "main.7acaea2f.css.map": "/hw29react2/static/css/main.7acaea2f.css.map",
+    "main.c39ee3c1.js.map": "/hw29react2/static/js/main.c39ee3c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.c39ee3c1.js"
+  ]
+}
